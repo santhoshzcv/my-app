@@ -98,7 +98,3 @@
     "analytics": "3f6c6574-d6f8-4480-9fd4-f94ccb0b0c14"
   }
 }
-
-git remote add origin https://github.com/santhoshzcv/my-app.git
-git branch -M main
-git push -u origin main
